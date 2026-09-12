@@ -9,3 +9,4 @@ check_supabase.py
 get_keys.py
 setup_env.py
 apply_migration.py
+supabase/.temp
